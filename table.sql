@@ -1,3 +1,4 @@
+create databse word DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 use word;
 create table eng_ch (
 id int not null auto_increment,
@@ -6,4 +7,3 @@ ch char(100) not null,
 ex char(100),
 primary key(id)
 )auto_increment=1;
-
