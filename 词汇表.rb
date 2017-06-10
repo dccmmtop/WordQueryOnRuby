@@ -14,3 +14,4 @@ page=Page.get_page_next('http://www.yywords.com/article/200803/181.html')
 		
 	end
 end
+dao.close
