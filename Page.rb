@@ -1,5 +1,6 @@
 require "mechanize"
 require "/home/dengchao/mygem/Queue"
+# 找出下一页的page对象
 class Page
 	def Page.get_page_next(start_url,*encoding)
 		@page=[]

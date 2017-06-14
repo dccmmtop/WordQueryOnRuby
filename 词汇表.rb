@@ -3,6 +3,7 @@ require "./Page"
 require "./WordDao"
 dao=WordDao.new
 dao.connect
+# 随便在网上找的单词表。
 page=Page.get_page_next('http://www.yywords.com/article/200803/181.html')
 (0..7).each do |i|
 	begin
