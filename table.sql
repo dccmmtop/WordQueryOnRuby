@@ -672,3 +672,11 @@ insert into en_ch (en,ch) values('where','adv.@@在哪里；在那个地方@@con
 insert into en_ch (en,ch) values('when','adv.@@什么时候；当 ... 时@@conj.@@然后；可是；当 ... 时@@pron.@@什么时候@@n.@@时间@@');
  
 insert into en_ch (en,ch) values('math','n.@@数学@@');
+ 
+insert into en_ch (en,ch) values('ben','n.@@本(男名)@@n.@@[小写](苏格兰)内室；山峰@@');
+ 
+insert into en_ch (en,ch) values('liuxin','刘歆@@');
+ 
+insert into en_ch (en,ch) values('cup','n.@@杯子；一杯之量；奖杯；罩杯@@vt.@@使成杯形；把某物放入杯中@@');
+ 
+insert into en_ch (en,ch) values('dup','n.@@复制品，副本，重复@@');
