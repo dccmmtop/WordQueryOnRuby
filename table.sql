@@ -664,19 +664,11 @@ insert into en_ch (en,ch) values('my','adj.我的（I的所有格形式）int.�
 insert into en_ch (en,ch) values('hello','int.(打招呼)喂；你好');
  
 insert into en_ch (en,ch) values('what','pron.什么adj.什么；哪个adv.用于感叹句中int.什么');
- 
-insert into en_ch (en,ch) values('when','adv.
-什么时候；当 ... 时
-conj.
-然后；可是；当 ... 时
-pron.
-什么时候
-n.
-时间
-');
- 
+
 insert into en_ch (en,ch) values('how','adv.\n怎样；多么；如何\nconj.\n如何；怎样；以 ... 方式\nn.\n方式\n');
  
 insert into en_ch (en,ch) values('where','adv.@@在哪里；在那个地方@@conj.@@在 ... 地方@@');
  
 insert into en_ch (en,ch) values('when','adv.@@什么时候；当 ... 时@@conj.@@然后；可是；当 ... 时@@pron.@@什么时候@@n.@@时间@@');
+ 
+insert into en_ch (en,ch) values('math','n.@@数学@@');
