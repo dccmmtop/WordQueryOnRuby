@@ -12,4 +12,7 @@
 * 现在就可以 运行`cx.rb hello` 查询hello单词了
 ###  --------
  若是想向执行系统命令一样来查询单词  比如 输入 `cx hello` 就可以查询hello的意思,还需要做如下工作:
-*回来在写* 
+* 把cx.rb 文件放入/bin目录下
+* vim 打开 .bashrc 文件 `vim .bashrc`
+* 在文件末尾写入 `alias cx=cx.rb`  相当于给cx起啦一个别名
+* 然后就可以直接在命令行中执行 `cx hello` 来查询hello单词的含义了
