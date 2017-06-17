@@ -1026,3 +1026,13 @@ insert into en_ch (en,ch) values('vim','n.@@精力；生气；精神@@');
 insert into en_ch (en,ch) values('mysql','MySQL数据库@@');
  
 insert into en_ch (en,ch) values('error','n.@@错误；过失；误差；谬误@@');
+ 
+insert into en_ch (en,ch) values('cui','n.@@崔@@');
+ 
+insert into en_ch (en,ch) values('road','n.@@路；道路；途径；方法@@');
+ 
+insert into en_ch (en,ch) values('double','adj.@@双重的；成双的；两倍的@@v.@@翻一番；使 ... 加倍@@n.@@两倍；双份@@');
+ 
+insert into en_ch (en,ch) values('meng','中国姓氏孟、蒙的音译@@');
+ 
+insert into en_ch (en,ch) values('puts','n.@@C语言的字符串输出语句@@');
