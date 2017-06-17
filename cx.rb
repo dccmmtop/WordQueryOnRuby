@@ -70,7 +70,7 @@ def get_ch_local(en) # 从本地数据库获取单词的释义
 
 	en=en.downcase
 	rescue Exception => e
-	puts "请输入英文"
+	puts "\033[32请输入英文\033[0m"
 	return
 	end
 # en='hello'
@@ -81,8 +81,8 @@ insert_word(en,ch)
 	end
 
 	if ch==nil
-	puts "没有找到"
+	puts "\033[32没有找到\033[0m"
 	else
-	puts ch.split("@@")
+	puts "\033[32m#{ch.split("@@")}\033[0m"
 	end
 

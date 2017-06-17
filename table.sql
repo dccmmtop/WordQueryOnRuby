@@ -1014,3 +1014,15 @@ insert into en_ch (en,ch) values('signal','n.@@信号；标志@@v.@@(发信号)�
 insert into en_ch (en,ch) values('wait','v.@@等；等待@@n.@@等待；等候@@');
  
 insert into en_ch (en,ch) values('annotations','n.@@【电脑】注解、私人便笺@@');
+ 
+insert into en_ch (en,ch) values('hola','奥拉@@');
+ 
+insert into en_ch (en,ch) values('convention','n.@@大会；协定；惯例；公约@@');
+ 
+insert into en_ch (en,ch) values('mutex','n.@@[计算机]互斥(体)@@');
+ 
+insert into en_ch (en,ch) values('vim','n.@@精力；生气；精神@@');
+ 
+insert into en_ch (en,ch) values('mysql','MySQL数据库@@');
+ 
+insert into en_ch (en,ch) values('error','n.@@错误；过失；误差；谬误@@');
