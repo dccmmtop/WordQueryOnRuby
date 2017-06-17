@@ -1012,3 +1012,5 @@ insert into en_ch (en,ch) values('engine','n.@@发动机；引擎；机车；火
 insert into en_ch (en,ch) values('signal','n.@@信号；标志@@v.@@(发信号)通知、表示@@adj.@@显著的@@');
  
 insert into en_ch (en,ch) values('wait','v.@@等；等待@@n.@@等待；等候@@');
+ 
+insert into en_ch (en,ch) values('annotations','n.@@【电脑】注解、私人便笺@@');
