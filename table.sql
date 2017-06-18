@@ -1036,3 +1036,7 @@ insert into en_ch (en,ch) values('double','adj.@@双重的；成双的；两倍�
 insert into en_ch (en,ch) values('meng','中国姓氏孟、蒙的音译@@');
  
 insert into en_ch (en,ch) values('puts','n.@@C语言的字符串输出语句@@');
+ 
+insert into en_ch (en,ch) values('semaphore','n.@@信号灯；旗语@@v.@@发出信号或旗语@@');
+ 
+insert into en_ch (en,ch) values('vlsi','超大规模集成电路@@');
