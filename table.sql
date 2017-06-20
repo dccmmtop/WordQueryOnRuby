@@ -1040,3 +1040,11 @@ insert into en_ch (en,ch) values('puts','n.@@C语言的字符串输出语句@@')
 insert into en_ch (en,ch) values('semaphore','n.@@信号灯；旗语@@v.@@发出信号或旗语@@');
  
 insert into en_ch (en,ch) values('vlsi','超大规模集成电路@@');
+ 
+insert into en_ch (en,ch) values('evaluate','vt.@@评价；评估@@');
+ 
+insert into en_ch (en,ch) values('license','n.@@许可证；执照；特许@@vt.@@发许可证给；特许@@');
+ 
+insert into en_ch (en,ch) values('oo','abbr.@@面向对象的(=Object Oriented)@@');
+ 
+insert into en_ch (en,ch) values('origin','n.@@起源；出身；[数]原点；起因@@');
