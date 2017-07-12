@@ -25,7 +25,7 @@ puts "#{en}已经存在"
 puts e.message
 return
 end
-io=File.open("/home/dengchao/rubyGit/WordQueryOnRuby/table.sql","a+")
+io=File.open("/home/dengchao/rubyTestCode/WordQueryOnRuby/table.sql","a+")
 io.puts(" ")
 # 直接把插入的一条数据写如sql文件中去
 io.puts("insert into en_ch (en,ch) values('#{en}','#{ch}');")
